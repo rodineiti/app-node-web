@@ -1,4 +1,4 @@
-# bitcoin-wallet-template
+# App Web With NodeJs, Hbs engine and SQLITE
 
 # Clone the repository BACKEND
 
